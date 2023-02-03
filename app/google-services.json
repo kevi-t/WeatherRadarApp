@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "280122546714",
+    "project_id": "weather-62ad9",
+    "storage_bucket": "weather-62ad9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280122546714:android:a238c1c60c301592174fa3",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280122546714-a55m8lbrqs98e99l4q7gsq5ictu3adks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbdvUhAVWlPSJ4hCL1uWwYie4hRisuCBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280122546714-a55m8lbrqs98e99l4q7gsq5ictu3adks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280122546714:android:566459c5d524edee174fa3",
+        "android_client_info": {
+          "package_name": "com.example.weather_radar_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280122546714-a55m8lbrqs98e99l4q7gsq5ictu3adks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbdvUhAVWlPSJ4hCL1uWwYie4hRisuCBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280122546714-a55m8lbrqs98e99l4q7gsq5ictu3adks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

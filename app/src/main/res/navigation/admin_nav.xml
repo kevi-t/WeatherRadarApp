@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/admin_nav"
+    app:startDestination="@id/adminHome">
+
+    <fragment
+        android:id="@+id/adminHome"
+        android:name="com.example.weather_radar_app.fragments.AdminHome"
+        android:label="Admin Dashboard"
+        tools:layout="@layout/fragment_admin_home" />
+    <fragment
+        android:id="@+id/adminList"
+        android:name="com.example.weather_radar_app.fragments.AdminList"
+        android:label="Users list"
+        tools:layout="@layout/fragment_admin_list" />
+    <fragment
+        android:id="@+id/adminMessages"
+        android:name="com.example.weather_radar_app.fragments.AdminMessages"
+        android:label="Notifications"
+        tools:layout="@layout/fragment_admin_messages" />
+
+</navigation>

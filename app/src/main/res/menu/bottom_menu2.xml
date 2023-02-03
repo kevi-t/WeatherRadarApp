@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <item
+            android:id="@+id/adminHome"
+            android:title="Home"
+            android:icon="@drawable/ic_home" />
+        <item
+            android:id="@+id/adminList"
+            android:title="Users"
+            android:icon="@drawable/ic_view_list" />
+        <item
+            android:id="@+id/adminMessages"
+            android:title="Messages"
+            android:icon="@drawable/ic_notifications" />
+        <item
+            android:id="@+id/logout"
+            android:title="Logout"
+            android:icon="@drawable/ic_exit" />
+</menu>
