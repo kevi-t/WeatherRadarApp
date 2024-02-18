@@ -1,4 +1,7 @@
 A android app that predicts and notify on the updates of weather in a certain region
+Database: Firebase
+Weather API: WeatherStack API
+
 Splash screen
 
 ![Splash screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/d401cac4-bfac-4a11-9008-63906262ce2b)
