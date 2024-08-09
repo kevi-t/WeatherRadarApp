@@ -1,8 +1,6 @@
 <p align="center"><img src="screenshots/cloudy.png" alt="StarWars" height="150px"></p>
 
-
 # WeatherRadarApp
-
 A android app that predicts and notify on the updates of weather in a certain region it consumes the WeatherStack API
 Database: Firebase
 Weather API: WeatherStack API
