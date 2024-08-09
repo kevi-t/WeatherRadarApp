@@ -9,10 +9,10 @@ Weather API: WeatherStack API
 
 ## Demo
 ### Splash screen
-<img src="screenshots/splash_screen.jpg" width="250"/>
+<img src="screenshots/splash_screen.jpg" width="250"/><img src="screenshots/landing_screen.jpg" width="250"/>
 
 ### Home screen
-<img src="screenshots/landing_screen.jpg" width="250"/>
+
 
 ### Login Screen
 <img src="screenshots/login_screen.jpg" width="250"/>
