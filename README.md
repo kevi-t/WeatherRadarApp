@@ -1,35 +1,33 @@
-A android app that predicts and notify on the updates of weather in a certain region
+<p align="center"><img src="screenshots/cloudy.png" alt="StarWars" height="150px"></p>
+
+
+# WeatherRadarApp
+
+A android app that predicts and notify on the updates of weather in a certain region it consumes the WeatherStack API
 Database: Firebase
 Weather API: WeatherStack API
 
-Splash screen
+## Demo
+### Splash screen
+<img src="screenshots/splash_screen.jpg" width="250"/>
 
-![Splash screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/d401cac4-bfac-4a11-9008-63906262ce2b)
+### Home screen
+<img src="screenshots/landing_screen.jpg" width="250"/>
 
-Landing screen
+### Login Screen
+<img src="screenshots/login_screen.jpg" width="250"/>
 
-![Landing screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/00891404-7af0-4e92-9d6e-bebaf986c143)
+### Registration screen
+<img src="screenshots/registration_screen.jpg" width="250"/>
 
-Login Screen
+### Daily weather
+<img src="screenshots/daily_weather.jpg" width="250"/>
 
-![Login screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/a600a9d7-e311-41e0-bd3a-3bec148558ba)
+### Weather updates
+<img src="screenshots/weather_updates.jpg" width="250"/>
 
-Registeration screen
+### Weekly weather
+<img src="screenshots/weekly_weather.jpg" width="250"/>
 
-![Register screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/c0f7b135-5b52-438e-b94c-6250ef810b32)
-
-Daily weather
-
-![Daily Weather](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/d97b90ea-aa67-485c-b001-d370cc508182)
-
-Weather updates
-
-![Weather Updates](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/533add18-afed-4670-86de-df43f679f327)
-
-Weekly weather
-
-![Weekly Updates](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/7955ad37-3930-4872-bd66-2697470d4d0f)
-
-Settings screen
-
-![Settings screen](https://github.com/kevi-t/WeatherRadarApp/assets/104903442/d4ea5d91-6f24-450f-9fc3-8a24c4cab828)
+### Settings screen
+<img src="screenshots/settings_screen.jpg" width="250"/>
